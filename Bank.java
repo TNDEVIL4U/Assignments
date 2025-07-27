@@ -84,7 +84,7 @@ public class Bank {
                 {
                     obj[found].deposit(amount);
 
-                }
+        }
             }
         else if(c==2)
             {
